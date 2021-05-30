@@ -1,0 +1,14 @@
+Login admin
+http://localhost:8080/simanwamo/auth_admin/login_admin
+username : admin
+password : admin
+
+Login supir
+http://localhost:8080/simanwamo/auth_supir/login_supir
+email 	 : bayuapriansyah7@gmail.com
+password : 123
+
+Login pelanggan
+http://localhost:8080/simanwamo/auth/login
+email 	 : wuhan@covid.com
+password : 123
